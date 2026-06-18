@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "image": "/images/hero_image.jpg",
+    "rating": 5,
+    "review": "The support and dedication shown by the organization have transformed lives and created meaningful opportunities for many families."
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "image": "/images/hero_image.jpg",
+    "rating": 5,
+    "review": "Their commitment to education and healthcare initiatives has brought hope and positive change to countless children."
+  },
+  {
+    "id": 3,
+    "name": "Amit Joshi",
+    "image": "/images/hero_image.jpg",
+    "rating": 5,
+    "review": "An inspiring organization that genuinely works towards empowering communities and building brighter futures."
+  },
+  {
+    "id": 4,
+    "name": "Amit Joshi",
+    "image": "/images/hero_image.jpg",
+    "rating": 5,
+    "review": "An inspiring organization that genuinely works towards empowering communities and building brighter futures."
+  }
+]
+  

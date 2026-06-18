@@ -1,0 +1,37 @@
+[
+  {
+    "id":1, 
+    "title": "Education Support",
+    "image": "/images/hero_image.jpg",
+    "description":
+      "Providing quality education, school supplies, and learning opportunities for children."
+  },
+  {
+    "id":2,
+    "title": "Healthcare Initiatives",
+    "image": "/images/hero_image.jpg",
+    "description":
+      "Organizing health camps and medical assistance programs for underserved communities."
+  },
+  {
+    "id":3,
+    "title": "Food Distribution",
+    "image": "/images/hero_image.jpg",
+    "description":
+      "Ensuring nutritious meals reach vulnerable families and children in need."
+  },
+  {
+    "id":4,
+    "title": "Women Empowerment",
+    "image": "/images/hero_image.jpg",
+    "description":
+      "Supporting skill development and self-reliance through empowerment initiatives."
+  },
+  {
+    "id":5,
+    "title": "Community Development",
+    "image": "/images/hero_image.jpg",
+    "description":
+      "Building stronger communities through sustainable social welfare programs."
+  }
+]
